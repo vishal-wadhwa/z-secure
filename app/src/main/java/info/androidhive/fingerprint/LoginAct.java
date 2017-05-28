@@ -41,7 +41,7 @@ public class LoginAct extends AppCompatActivity {
                 } else if (uuid.getText().toString().length() != 12) {
                     Toast.makeText(LoginAct.this, "Invalid UUID", Toast.LENGTH_SHORT).show();
                 } else {
-                    Intent i = new Intent(getApplicationContext(), HomeActivity.class);
+                    Intent i = new Intent(getApplicationContext(), Aadhar.class);
                     i.putExtra(Aadhar.PARAM_NAME, name.getText().toString());
                     String uuid_temp = uuid.getText().toString();
                     i.putExtra(Aadhar.PARAM_UUID,
