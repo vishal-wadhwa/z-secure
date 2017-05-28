@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.EditText;
+import android.widget.RadioGroup;
 import android.widget.Toast;
 
 /**
@@ -17,6 +18,7 @@ public class LoginAct extends AppCompatActivity {
 
 
     private EditText name, uuid;
+    private RadioGroup radioGroup;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,6 +34,7 @@ public class LoginAct extends AppCompatActivity {
 
         name = (EditText) findViewById(R.id.name);
         uuid = (EditText) findViewById(R.id.uuid);
+        radioGroup = (RadioGroup) findViewById(R.id.rg);
 
         findViewById(R.id.btn_login).setOnClickListener(new View.OnClickListener() {
             @Override
@@ -41,12 +44,20 @@ public class LoginAct extends AppCompatActivity {
                 } else if (uuid.getText().toString().length() != 12) {
                     Toast.makeText(LoginAct.this, "Invalid UUID", Toast.LENGTH_SHORT).show();
                 } else {
-                    Intent i = new Intent(getApplicationContext(), HomeActivity.class);
-                    i.putExtra(Aadhar.PARAM_NAME, name.getText().toString());
-                    String uuid_temp = uuid.getText().toString();
-                    i.putExtra(Aadhar.PARAM_UUID,
-                            uuid_temp.substring(0, 4) + "-" + uuid_temp.substring(4, 8) + "-" + uuid_temp.substring(8, 12));
+                    Intent i = null;
 
+                    switch (radioGroup.getCheckedRadioButtonId()) {
+                        case R.id.rg_guard:
+                            //call relevant activity
+                            break;
+                        case R.id.rg_member:
+                            i = new Intent(getApplicationContext(), Aadhar.class);
+                            i.putExtra(Aadhar.PARAM_NAME, name.getText().toString());
+                            String uuid_temp = uuid.getText().toString();
+                            i.putExtra(Aadhar.PARAM_UUID,
+                                    uuid_temp.substring(0, 4) + "-" + uuid_temp.substring(4, 8) + "-" + uuid_temp.substring(8, 12));
+
+                    }
                     startActivity(i);
                 }
             }
