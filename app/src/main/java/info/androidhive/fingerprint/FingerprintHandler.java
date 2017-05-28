@@ -52,9 +52,10 @@ public class FingerprintHandler extends FingerprintManager.AuthenticationCallbac
         context.startActivity(intent);
     }
 
-    private void update(String e){
-        TextView textView = (TextView) ((Activity)context).findViewById(R.id.errorText);
+    private void update(String e) {
+        TextView textView = (TextView) ((Activity) context).findViewById(R.id.errorText);
         textView.setText(e);
+        Intent i = new Intent(context, HomeActivity.class);
+        context.startActivity(i);
     }
-
 }
