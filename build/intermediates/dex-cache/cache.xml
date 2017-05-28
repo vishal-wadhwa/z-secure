@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/dhruv/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_25e3ff36101b4917c340fd1c59a1c9e6ef457334.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhruv/Desktop/z-secure/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2a3d4b5ac205a9f0e9995dd7fc028bebf80a4213.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/dhruv/OS/Users/DHRUV/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0/5c06d197fb7fa875ad452f562e3310dd9949d066/retrofit-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0_65512f23867bfff91501d5a15ebe4cb337769f15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhruv/Desktop/z-secure/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_fc7d909b433d2e1de021fe93123f453b69bf662e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhruv/Desktop/z-secure/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_b6cda17b1b9ca59eb26e11c75365bb41c5e3f3ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhruv/Desktop/z-secure/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_3b24405c68913802b87303d9b627fb71345485f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/dhruv/OS/Users/DHRUV/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/okio-1.6.0_f59760990a7248e742971c81564e1f11906fe489.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhruv/Desktop/z-secure/app/build/intermediates/exploded-aar/com.kontaktio/sdk/3.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3c2121a1aac894ecf927ad7ec9c908a84159f9e2">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/com.kontaktio-sdk-3.3.1_064fe146eec8a09c67fddaf2839885d019b3bfcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/dhruv/OS/Users/DHRUV/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/parse-android-1.13.0_4b57b9c0da7f572b55f5f2a86b4e8f1041b62f14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhruv/Desktop/z-secure/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e9e64bd07b3b15e00b5d9fcf266bd0e077b038df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/dhruv/OS/Users/DHRUV/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/gson-2.6.1_8be9819c8eb42189ce9d63001c0f427a2554e1a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhruv/Desktop/z-secure/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_eea3a6284716de412d305fb8fce9f41302ece853.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/dhruv/OS/Users/DHRUV/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_0741b6364c006ccc3dc3352182ff3475ad461e43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhruv/Desktop/z-secure/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_edd4dd6709ab9097aa70e3c0fd1c83f1733a7574.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/dhruv/OS/Users/DHRUV/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0/49eb3ad545e7701234e4dd83db8dc1344b577f23/converter-gson-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="49eb3ad545e7701234e4dd83db8dc1344b577f23">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0_cceb8b5a24eb28f1fc00c231a3e4b39f7481a3ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/dhruv/OS/Users/DHRUV/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_40ba674c9327fcf8d30245b56500507ec4721ed8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhruv/Desktop/z-secure/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ae1b03278a00c996498d8da86a7ebdac16b224f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhruv/Desktop/z-secure/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_8fa52d1d678b9b50ff180c6cf73b7a7decff3c6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhruv/Desktop/z-secure/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_fe7d9e271a2d29aef1b51917e6c7e21432d8e2f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhruv/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_722ccab7b83488acefd037f5f6e59c41f7de99ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhruv/Desktop/z-secure/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_21d73238c499e3e4e2ce9edf7df5b1328402f1e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhruv/Desktop/z-secure/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_3628214d9054019c97ff6a4e976d9024eb863f3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhruv/Desktop/z-secure/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_d6dc2ffd8cbdf62e77784ebc6c02e3d7d8e9f31d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhruv/Desktop/z-secure/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_59268249cedc3136a44f0415b91a946b8d7c076a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhruv/Desktop/z-secure/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_2de3d290f893715bfec0890fc5e5b8b59acdbf3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/media/dhruv/OS/Users/DHRUV/.gradle/caches/modules-2/files-2.1/com.plattysoft.leonids/LeonidsLib/1.3.2/82c667889959f88a143f9f02f409236b5d6d6c1f/LeonidsLib-1.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="82c667889959f88a143f9f02f409236b5d6d6c1f">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/LeonidsLib-1.3.2_641141586aa309742c536aa270cef8b2b19991c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhruv/Desktop/z-secure/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_95f5d8f53dbd2fe325c119990e1bea6510b96bb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dhruv/Desktop/z-secure/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/dhruv/Desktop/z-secure/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_dfb0db5bc1c8ec38c992ef266ab6a5ff4a96d4df.jar" />
+    </item>
+
+</items>

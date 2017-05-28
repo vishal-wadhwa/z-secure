@@ -18,6 +18,8 @@ public class Aadhar extends AppCompatActivity {
     private String uuid;
     private TextView tvName, tvUUID;
     private Button btn;
+    public static String loginName;
+    public static String aadarNo;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -31,6 +33,9 @@ public class Aadhar extends AppCompatActivity {
 
         tvName = (TextView) findViewById(R.id.name);
         tvUUID = (TextView) findViewById(R.id.uuid);
+
+        loginName = name;
+        aadarNo = uuid;
 
         tvName.setText(name);
         tvUUID.setText(uuid);

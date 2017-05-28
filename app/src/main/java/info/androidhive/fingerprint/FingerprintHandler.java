@@ -8,6 +8,7 @@ import android.content.pm.PackageManager;
 import android.hardware.fingerprint.FingerprintManager;
 import android.os.CancellationSignal;
 import android.support.v4.app.ActivityCompat;
+import android.util.Log;
 import android.widget.TextView;
 
 /**
@@ -47,15 +48,16 @@ public class FingerprintHandler extends FingerprintManager.AuthenticationCallbac
 
     @Override
     public void onAuthenticationSucceeded(FingerprintManager.AuthenticationResult result) {
-        ((Activity) context).finish();
+        Log.d("beacon","in beacon");
         Intent intent = new Intent(context, HomeActivity.class);
         context.startActivity(intent);
+//        ((Activity) context).finish();
     }
 
     private void update(String e) {
         TextView textView = (TextView) ((Activity) context).findViewById(R.id.errorText);
         textView.setText(e);
-        Intent i = new Intent(context, HomeActivity.class);
-        context.startActivity(i);
+//        Intent i = new Intent(context, HomeActivity.class);
+//        context.startActivity(i);
     }
 }

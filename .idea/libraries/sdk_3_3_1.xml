@@ -6,7 +6,7 @@
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kontaktio/sdk/3.3.1/7210c0d81b334b4be2573e03b4e186d4ff079ede/sdk-3.3.1-sources.jar!/" />
+      <root url="jar:///media/dhruv/OS/Users/DHRUV/.gradle/caches/modules-2/files-2.1/com.kontaktio/sdk/3.3.1/7210c0d81b334b4be2573e03b4e186d4ff079ede/sdk-3.3.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
